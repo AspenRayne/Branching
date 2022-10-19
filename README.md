@@ -2,6 +2,8 @@
 
 List of commands and practice with branching.
 STUFF ADDED IN newBranch
+STUFF ADDED HERE IN MAIN Branch
+
 ## Basic Commands
 
 * `git init` - initialize local repo in working directory
